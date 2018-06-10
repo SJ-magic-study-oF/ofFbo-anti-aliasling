@@ -9,7 +9,12 @@
 ofxSyphon  
 
 ## Contents ##
-ofFboでanti-aliasing.
+ofFboでanti-aliasing.  
+  
+see also.  
+SJ-magic-study-unity/study__UnitySyphon.  
+https://github.com/SJ-magic-study-unity/study__UnitySyphon  
+
 
 ## Device ##
 
